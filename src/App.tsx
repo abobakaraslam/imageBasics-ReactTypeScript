@@ -5,7 +5,7 @@ function App() {
     <div>
       <div> {/*outer-container*/}
           <div style={{width:'107px', height:'142px', border:"1px solid black"}}> {/*image-container*/}
-            <img src="../src/assets/imgs.png" alt="Abo Bakar" style={{maxWidth:"100%", height:"auto"}} />
+            <img src="../src/assets/images/cv_920_1080.png" alt="Abo Bakar" style={{maxWidth:"100%", height:"auto"}} />
           </div>
         </div>
     </div>
